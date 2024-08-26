@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+stable-baselines3
+gym
+yfinance
+talipp
