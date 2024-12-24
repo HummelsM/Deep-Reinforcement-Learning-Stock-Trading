@@ -1,1 +1,1 @@
-# reinforcement-learning-stock-trading
+# deep-reinforcement-learning-stock-trading
