@@ -6,3 +6,8 @@ gym
 yfinance
 talipp
 TA_Lib-0.4.29-cp310-cp310-win_amd64.whl
+numpy
+datetime
+scikit-learn
+os
+fast_ml
