@@ -11,3 +11,4 @@ datetime
 scikit-learn
 fast-ml
 seaborn
+ipython
