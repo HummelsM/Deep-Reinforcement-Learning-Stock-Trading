@@ -12,7 +12,7 @@ from gymnasium import spaces
 from stable_baselines3.common.callbacks import EvalCallback, StopTrainingOnRewardThreshold
 from fast_ml.model_development import train_valid_test_split
 from sklearn.preprocessing import MinMaxScaler
-from Datasets.fake-data.fake_data import generate_sine_wave_data,generate_mean_reverting_random_walk,generate_brownian_motion,generate_synthetic_data
+from Datasets.fake.fake_data import generate_sine_wave_data,generate_mean_reverting_random_walk,generate_brownian_motion,generate_synthetic_data
 from Preprocess.preprocess import preprocess_data,compute_rsi,compute_macd
 
 sine_wave_data = generate_sine_wave_data(length=500)
@@ -360,6 +360,7 @@ plt.legend()
 plt.title("Test ROI and Rolling Average")
 plt.grid(True)
 plt.show()
+
 
 
 
