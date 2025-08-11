@@ -1,6 +1,7 @@
 pandas
 numpy
 matplotlib
+streamlit
 stable-baselines3
 gym
 yfinance
@@ -8,5 +9,4 @@ talipp
 numpy
 datetime
 scikit-learn
-os
 fast_ml
