@@ -9,4 +9,5 @@ talipp
 numpy
 datetime
 scikit-learn
-fast_ml
+fast-ml
+seaborn
