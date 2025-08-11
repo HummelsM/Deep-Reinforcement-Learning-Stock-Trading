@@ -12,3 +12,4 @@ scikit-learn
 fast-ml
 seaborn
 ipython
+tqdm
